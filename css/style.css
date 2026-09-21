@@ -34,3 +34,4 @@
 .license-prev{inset-inline-start:10px}.license-next{inset-inline-end:10px}
 .license-dots{position:absolute;bottom:9px;inset-inline:0;display:flex;justify-content:center;gap:7px}
 .license-dot{width:7px;height:7px;padding:0;border:0;border-radius:50%;background:rgba(255,255,255,.35);cursor:pointer}.license-dot.is-active{background:var(--amber);transform:scale(1.25)}
+.accreditation-meta{margin-top:8px;color:rgba(255,255,255,.58);font-size:.9em;line-height:1.7;text-align:center}

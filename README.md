@@ -1,6 +1,6 @@
-# کافه رستوران بزرگمهر / Bozorgmehr kentucky Restaurant
+# رستوران کنتاکی بزرگمهر / Bozorgmehr kentucky Restaurant
 
-Production-ready bilingual landing page for کافه رستوران بزرگمهر in Mashhad.
+Production-ready bilingual landing page for رستوران کنتاکی بزرگمهر in Mashhad.
 
 ## Project overview and tech stack
 
@@ -80,10 +80,10 @@ The inline bootstrap in `<head>` reads `bozorgmehr-lang` before first paint, def
 - Added self-hosted Vazirmatn 400/500/700/800 and Inter 400/600/800 WOFF2 files.
 - Added fixed navbar logo sizing and uniform `220px` menu image presentation with `object-fit: cover`.
 - Replaced license/logo menu-card sources with category-specific food photography URLs and added branded fallback cards for failed image loads.
-- Added exact Neshan routing links for both branches and retained the central `tel:09153102555` CTA.
+- Added exact Neshan routing links for both branches and retained the branch phone/contact links.
 - Integrated the prepared local menu photography and normalized `Sandwiches.png` to lowercase `sandwiches.png` for Linux case-sensitivity.
 - Updated brand naming, story copy, branch phone numbers, and the official license carousel.
 - Added a responsive official-accreditation carousel using `license-1.png`, `license-2.png`, and `license-3.png` with contained images, arrows, dots, and fixed slide dimensions.
 - Updated branch contact links to `05137618434` for Shahid Montazeri and `05137638555` for Malek Abad.
-- Integrated the executive-manager story directly into the About narrative in both Persian and English, with a concise supporting profile card.
+- Consolidated the About section around the ۱۳۶۰ founding anchor and removed redundant executive bio copy.
 - Verified JavaScript syntax, seven PDF assets, self-hosted font availability, and zero root-relative local URLs.
